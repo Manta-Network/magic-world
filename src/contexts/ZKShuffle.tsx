@@ -58,7 +58,7 @@ export function ZKShuffleProvider({ children }: { children: ReactNode }) {
   //   clear();
   // }, []);
 
-  const getCacheData = async (cardNumber: number) => {
+  const getCacheData = async (cardNumber: 5 | 30 | 52) => {
     try {
       const data = await getCryptoFilesFromCache();
       let res = null;

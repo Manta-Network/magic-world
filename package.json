@@ -18,7 +18,7 @@
     "@semaphore-protocol/proof": "^2.6.1",
     "@tanstack/react-query": "^4.29.7",
     "@typechain/ethers-v5": "^10.2.1",
-    "@zk-shuffle/jssdk": "^1.0.0",
+    "@zk-shuffle/jssdk": "^1.0.1",
     "circomlibjs": "^0.1.7",
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.1",
@@ -39,11 +39,11 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.194",
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.7",
     "@types/node": "18.14.2",
     "@types/react": "18.0.28",
-    "@types/react-dom": "18.0.11"
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
   }
 }
